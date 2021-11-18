@@ -28,3 +28,7 @@ h3 {
 p {
     font-family: helvetica;
 }
+element {
+    font-weight: bold;
+    color:blue;
+}
