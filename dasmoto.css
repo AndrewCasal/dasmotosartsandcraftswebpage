@@ -6,10 +6,18 @@ h1 {
     text-align: center;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
 }
-#brushes {
+h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+#brushes {
     background-color: mediumspringgreen;
+}
+#frames {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
 }
