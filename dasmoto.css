@@ -12,6 +12,10 @@ h2 {
     font-weight: bold;
     color: white;
 }
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+}
 #brushes {
     background-color: mediumspringgreen;
 }
@@ -20,4 +24,7 @@ h2 {
 }
 #paint {
     background-color: skyblue;
+}
+p {
+    font-family: helvetica;
 }
